@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1788857999468-3iybb168x",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788858009743-h68koqj",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1788857999451-ifvjmiq",
+      "timestamp": 1788857999451,
+      "rawDisplayText": "根据readme和文件夹整体结构重新建立文章在obsidian库中的关系图谱",
+      "canonicalText": "根据readme和文件夹整体结构重新建立文章在obsidian库中的关系图谱",
+      "images": [],
+      "contentDigest": "2557ddc1362fffd7a745f75b46a298271a943249831398129f204c880d2816ce",
+      "providerUserMessageId": "52027a11-b8bd-424f-b729-7abd251f2787"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788858102410-nusgmbk",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1788858102401-a5i877i",
+      "timestamp": 1788858102401,
+      "rawDisplayText": "根据readme和文件夹整体结构重新建立文章在obsidian库中的关系图谱",
+      "canonicalText": "根据readme和文件夹整体结构重新建立文章在obsidian库中的关系图谱",
+      "images": [],
+      "contentDigest": "2557ddc1362fffd7a745f75b46a298271a943249831398129f204c880d2816ce",
+      "providerUserMessageId": "9d815faa-c842-487e-8658-9807b34d2f7a"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788858250206-jz6r143",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1788858250174-vlxr5gi",
+      "timestamp": 1788858250174,
+      "rawDisplayText": "根据readme和文件夹整体结构重新建立文章在obsidian库中的关系图谱",
+      "canonicalText": "根据readme和文件夹整体结构重新建立文章在obsidian库中的关系图谱",
+      "images": [],
+      "contentDigest": "2557ddc1362fffd7a745f75b46a298271a943249831398129f204c880d2816ce",
+      "providerUserMessageId": "9a2d2ab2-462d-46d0-9c36-ca43e3debac4"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788858314758-mopv0yf",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1788858314744-op8bdqo",
+      "timestamp": 1788858314744,
+      "rawDisplayText": "根据readme和文件夹整体结构重新建立文章在obsidian库中的关系图谱",
+      "canonicalText": "根据readme和文件夹整体结构重新建立文章在obsidian库中的关系图谱",
+      "images": [],
+      "contentDigest": "2557ddc1362fffd7a745f75b46a298271a943249831398129f204c880d2816ce",
+      "providerUserMessageId": "f550b2df-bff5-4acd-bdc6-8703cc57ef32",
+      "providerAssistantMessageId": "7d700596-3269-4c18-bbc8-1d2289766b7f"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788860212890-i2uh3zq",
+      "userTurnOrdinal": 5,
+      "state": "accepted",
+      "localMessageId": "msg-1788860212834-s2zj4u7",
+      "timestamp": 1788860212834,
+      "rawDisplayText": "继续上一个任务",
+      "canonicalText": "继续上一个任务",
+      "images": [],
+      "contentDigest": "fddd8738a8ed6b3e06a82b255b772189e261c8489779b67b3dba20fb57c3ef1a",
+      "providerUserMessageId": "7fa0e70c-4899-4f9f-872c-dd15294b56f6",
+      "providerAssistantMessageId": "fe6a0a1a-5ae7-42f3-9ef8-6cbb492f5966"
+    }
+  ]
+}

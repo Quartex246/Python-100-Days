@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1788869201917-p6509nfqk",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788869202312-gx0ybfg",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1788869201907-hn9ny7t",
+      "timestamp": 1788869201907,
+      "rawDisplayText": "赋值运算构成的表达式本身不产生任何值，也就是说，如果你把一个赋值表达式放到`print`函数中试图输出表达式的值，将会产生语法错误。 这句话是什么意思",
+      "canonicalText": "赋值运算构成的表达式本身不产生任何值，也就是说，如果你把一个赋值表达式放到`print`函数中试图输出表达式的值，将会产生语法错误。 这句话是什么意思",
+      "context": {
+        "linkedContent": {
+          "path": "Day01-20/04.Python语言中的运算符.md"
+        },
+        "editorSelection": {
+          "notePath": "Day01-20/04.Python语言中的运算符.md",
+          "mode": "selection",
+          "selectedText": "赋值运算构成的表达式本身不产生任何值，也就是说，如果你把一个赋值表达式放到`print`函数中试图输出表达式的值，将会产生语法错误。",
+          "lineCount": 1,
+          "startLine": 86
+        }
+      },
+      "images": [],
+      "contentDigest": "69175525974a8d9ab2e37ac6ce5032467e78b68b7c446e0e718ded50a0bd8fb3",
+      "providerUserMessageId": "9306b57f-6184-4d7c-a781-8fcdaab13d91",
+      "providerAssistantMessageId": "eb238d49-a84c-46e9-ae4e-54e5992e4d05"
+    }
+  ]
+}

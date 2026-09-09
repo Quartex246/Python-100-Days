@@ -1,0 +1,24 @@
+{
+  "id": "conv-1788869201917-p6509nfqk",
+  "providerId": "claude",
+  "title": "赋值运算构成的表达式本身不产生任何值，也就是说，如果你把一个赋值表达式放到`print`函数中试图输...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1788869201966,
+  "lastActivityAt": 1788869220983,
+  "sessionId": "006ae915-aa6b-4553-af5f-46af5a72e0eb",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "006ae915-aa6b-4553-af5f-46af5a72e0eb"
+  },
+  "linkedContentPath": "Day01-20/04.Python语言中的运算符.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 1204,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 21760,
+    "contextWindow": 1000000,
+    "contextTokens": 22964,
+    "percentage": 2,
+    "contextWindowIsAuthoritative": true
+  }
+}

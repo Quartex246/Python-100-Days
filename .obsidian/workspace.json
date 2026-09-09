@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "294730e935493336",
+    "type": "split",
+    "children": [
+      {
+        "id": "d907ec984f52b722",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f55df0c66001bee0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day01-20/05.分支结构.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05.分支结构"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "270eb73b5f412cc5",
+    "type": "split",
+    "children": [
+      {
+        "id": "b74badb8422f14b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "011ea5779adc77b0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "3c6391140705d4b4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "784c64efd0a6997b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e9cf095f7a3758d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e2791ec7e2db6a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74d03476688feb0d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "67688d2b3b29fad3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "b9686e157ac6b019",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "5fbd9e8794896a43",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "ee1429fdfc8b0797",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Day01-20/01.初识Python.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "545c74932902205d",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {
+                "tabWorkspace": {
+                  "version": 1,
+                  "openTabs": [
+                    {
+                      "tabId": "tab-1788869176262-v92plyu",
+                      "conversationId": "conv-1788869201917-p6509nfqk"
+                    }
+                  ],
+                  "activeTabId": "tab-1788869176262-v92plyu"
+                }
+              },
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 723.0999755859375,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "realclaudian:Open Claudian": false
+    }
+  },
+  "active": "f55df0c66001bee0",
+  "lastOpenFiles": [
+    "Day01-20/04.Python语言中的运算符.md",
+    "Day01-20/05.分支结构.md",
+    "Day01-20/01.初识Python.md",
+    "Day01-20/02.第一个Python程序.md",
+    "Day01-20/03.Python语言中的变量.md",
+    "Day01-20/02.第一个Python程序 1.md",
+    "Day01-20/MOC.md",
+    "Python学习路线图.md",
+    "README.md",
+    "build_obsidian_graph.py.tmp.17588.b465a186b1a1",
+    "build_obsidian_graph.py.tmp.17588.896e96e8c62b",
+    "build_obsidian_graph.py.tmp.17588.9ff78e678cc7",
+    "Day91-100/MOC.md",
+    "Day81-90/MOC.md",
+    "Day66-80/MOC.md",
+    "Day61-65/MOC.md",
+    "Day46-60/MOC.md",
+    "Day36-45/MOC.md",
+    "Day31-35/MOC.md",
+    "Day21-30/MOC.md",
+    "build_obsidian_graph.py"
+  ]
+}
