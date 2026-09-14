@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1789387327725-qf8c5iryd",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789387337563-afvjs2c",
+      "userTurnOrdinal": 1,
+      "state": "staged",
+      "localMessageId": "msg-1789387327717-tivyj67",
+      "timestamp": 1789387327717,
+      "rawDisplayText": "分析文章中使用的pop，我没有理解这个方法的用法和作用",
+      "canonicalText": "分析文章中使用的pop，我没有理解这个方法的用法和作用",
+      "context": {
+        "linkedContent": {
+          "path": "Day01-20/09.常用数据结构之列表-2.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "d69f541aaab751bd73683fa4ac5c25ca30caae322b2eeb00086cf76649f6039e"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789387389891-duuhlzu",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1789387389878-nlkt3xz",
+      "timestamp": 1789387389878,
+      "rawDisplayText": "分析文章中使用的pop方法，我没有理解这个方法的用法和作用",
+      "canonicalText": "分析文章中使用的pop方法，我没有理解这个方法的用法和作用",
+      "images": [],
+      "contentDigest": "8a03fc5ef51e06dcbb5d1944bcf95e03db8b048cfa7bc8fc816ec60646ad9fc1",
+      "providerUserMessageId": "52c7511c-1782-41a7-ba7e-a1c3d0dff8d1",
+      "providerAssistantMessageId": "82cfe1d2-d563-40fc-bd7a-e297882979df"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789388772181-bjpmtl5",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1789388772166-1mmtatr",
+      "timestamp": 1789388772166,
+      "rawDisplayText": "sort操作的分类依据是什么",
+      "canonicalText": "sort操作的分类依据是什么",
+      "images": [],
+      "contentDigest": "1c54473b726afeda73881266afe1159c16ff7c28bd6e5e408565f034b173562c",
+      "providerUserMessageId": "626e9eb7-53ca-46c7-853f-fe0d232430e3"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789388809242-vj5kh8g",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1789388809228-s0t2zz2",
+      "timestamp": 1789388809228,
+      "rawDisplayText": "文章中提及到sort的作用是对元素进行排序，排序的依据是什么",
+      "canonicalText": "文章中提及到sort的作用是对元素进行排序，排序的依据是什么",
+      "images": [],
+      "contentDigest": "fe8a807ae375f348c39173aedb86fbd3f560d7475fc1f6b706313b0e1e2d54c5",
+      "providerUserMessageId": "5a54f5c3-2f51-4526-816d-1206b89f4873",
+      "providerAssistantMessageId": "4030e5aa-be27-41b2-9b20-16c04f3579bd"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1789387327725-qf8c5iryd",
+  "providerId": "claude",
+  "title": "Explain pop method usage and purpose",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789387327749,
+  "lastActivityAt": 1789388851949,
+  "sessionId": "5f2cc00b-db93-436f-9fe6-e3f655403709",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "5f2cc00b-db93-436f-9fe6-e3f655403709"
+  },
+  "linkedContentPath": "Day01-20/09.常用数据结构之列表-2.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 6274,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 22170,
+    "contextWindow": 200000,
+    "contextTokens": 28444,
+    "percentage": 14,
+    "contextWindowIsAuthoritative": true
+  }
+}

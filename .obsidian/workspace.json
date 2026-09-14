@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day01-20/05.分支结构.md",
+                "file": "Day01-20/09.常用数据结构之列表-2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05.分支结构"
+              "title": "09.常用数据结构之列表-2"
             }
           }
         ]
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day01-20/01.初识Python.md",
+                "file": "Day01-20/09.常用数据结构之列表-2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -182,9 +182,13 @@
                     {
                       "tabId": "tab-1788869176262-v92plyu",
                       "conversationId": "conv-1788869201917-p6509nfqk"
+                    },
+                    {
+                      "tabId": "tab-1789387303771-y98sltf",
+                      "conversationId": "conv-1789387327725-qf8c5iryd"
                     }
                   ],
-                  "activeTabId": "tab-1788869176262-v92plyu"
+                  "activeTabId": "tab-1789387303771-y98sltf"
                 }
               },
               "icon": "bot",
@@ -192,12 +196,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 723.0999755859375,
-    "collapsed": true
+    "width": 266.2999267578125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,20 +214,30 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "f55df0c66001bee0",
+  "active": "ee1429fdfc8b0797",
   "lastOpenFiles": [
-    "Day01-20/04.Python语言中的运算符.md",
+    "Day01-20/08.常用数据结构之列表-1.md",
+    "PythonPractice/08/advancedcounter.py",
+    "PythonPractice/08/counter",
+    "PythonPractice/08",
+    "PythonPractice/新建文件夹",
+    "Day01-20/07.分支和循环结构实战.md",
     "Day01-20/05.分支结构.md",
     "Day01-20/01.初识Python.md",
+    "PythonPractice/07/eg5craps.py",
+    "PythonPractice/07/eg4.py",
+    "PythonPractice/07/例子3：寻找水仙花数.py",
+    "Day01-20/04.Python语言中的运算符.md",
+    "README.md",
+    "Day01-20/06.循环结构.md",
+    "PythonPractice/07/test.py",
+    "PythonPractice/07",
+    "PythonPractice/test.py",
     "Day01-20/02.第一个Python程序.md",
     "Day01-20/03.Python语言中的变量.md",
     "Day01-20/02.第一个Python程序 1.md",
     "Day01-20/MOC.md",
     "Python学习路线图.md",
-    "README.md",
-    "build_obsidian_graph.py.tmp.17588.b465a186b1a1",
-    "build_obsidian_graph.py.tmp.17588.896e96e8c62b",
-    "build_obsidian_graph.py.tmp.17588.9ff78e678cc7",
     "Day91-100/MOC.md",
     "Day81-90/MOC.md",
     "Day66-80/MOC.md",
@@ -232,7 +245,6 @@
     "Day46-60/MOC.md",
     "Day36-45/MOC.md",
     "Day31-35/MOC.md",
-    "Day21-30/MOC.md",
-    "build_obsidian_graph.py"
+    "Day21-30/MOC.md"
   ]
 }

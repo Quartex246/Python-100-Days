@@ -1,7 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "Bash(python build_obsidian_graph.py)"
+      "Bash(python build_obsidian_graph.py)",
+      "Bash(python -c \"\nitems = ['Python', 'Java', 'C++', 'Kotlin', 'Swift']\nitems.sort\\(\\)\nprint\\('sorted:', items\\)\n\n# each string's first char code point\nfor s in ['C++', 'Java', 'Kotlin', 'Python', 'Swift']:\n    print\\(s, '-> first char:', s[0], 'code:', ord\\(s[0]\\)\\)\n\nprint\\(\\)\nprint\\('case demo:'\\)\nwords = ['banana', 'Apple', 'cherry', 'apple']\nwords.sort\\(\\)\nprint\\(words\\)\n\")"
     ]
   }
 }
