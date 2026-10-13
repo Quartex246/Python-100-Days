@@ -2,7 +2,9 @@
   "permissions": {
     "allow": [
       "Bash(python build_obsidian_graph.py)",
-      "Bash(python -c \"\nitems = ['Python', 'Java', 'C++', 'Kotlin', 'Swift']\nitems.sort\\(\\)\nprint\\('sorted:', items\\)\n\n# each string's first char code point\nfor s in ['C++', 'Java', 'Kotlin', 'Python', 'Swift']:\n    print\\(s, '-> first char:', s[0], 'code:', ord\\(s[0]\\)\\)\n\nprint\\(\\)\nprint\\('case demo:'\\)\nwords = ['banana', 'Apple', 'cherry', 'apple']\nwords.sort\\(\\)\nprint\\(words\\)\n\")"
+      "Bash(python -c \"\nitems = ['Python', 'Java', 'C++', 'Kotlin', 'Swift']\nitems.sort\\(\\)\nprint\\('sorted:', items\\)\n\n# each string's first char code point\nfor s in ['C++', 'Java', 'Kotlin', 'Python', 'Swift']:\n    print\\(s, '-> first char:', s[0], 'code:', ord\\(s[0]\\)\\)\n\nprint\\(\\)\nprint\\('case demo:'\\)\nwords = ['banana', 'Apple', 'cherry', 'apple']\nwords.sort\\(\\)\nprint\\(words\\)\n\")",
+      "Bash(cd \"C:/Users/Morphius/Documents/GitHub/Python-100-Days/番外篇\" && for f in Python之禅的最佳翻译.md 常见反爬策略及应对方案.md Python编程惯例.md 一个小例子助你彻底理解协程.md Python容器使用小技巧.md; do echo \"===== $f =====\"; head -25 \"$f\"; done)",
+      "Bash(cd \"C:/Users/Morphius/Documents/GitHub/Python-100-Days\" && for f in \"番外篇/如何快速驾驭 pandas 库.md\" \"番外篇/接口文档参考示例.md\" \"番外篇/那些年我们踩过的那些坑.md\" \"番外篇/知乎问题回答.md\" \"番外篇/常见反爬策略及应对方案.md\" \"番外篇/使用Hexo搭建自己的博客.md\" \"番外篇/PEP8风格指南.md\" \"番外篇/Python编程惯例.md\" \"番外篇/Python之禅的最佳翻译.md\" \"番外篇/Python容器使用小技巧.md\" \"番外篇/用函数还是用复杂的表达式.md\" \"番外篇/分享几张学习路线图.md\" \"Day01-20/02.第一个Python程序.md\" \"Day21-30/24.Python读写Excel文件-1.md\" \"Day21-30/27.Python操作PDF文件.md\" \"Day31-35/34-35.玩转Linux操作系统.md\" \"Day36-45/44.Python接入MySQL数据库.md\" \"Day46-60/51.日志和调试工具栏.md\" \"Day46-60/53.前后端分离开发入门.md\" \"Day46-60/59.单元测试.md\" \"Day81-90/90.机器学习实战.md\" \"Day91-100/91.团队项目开发的问题和解决方案.md\" \"Day91-100/94.网络API接口设计.md\" \"Day91-100/96.软件测试和自动化测试.md\"; do [ -f \"$f\" ] && echo \"OK  $f\" || echo \"MISSING  $f\"; done)"
     ]
   }
 }
